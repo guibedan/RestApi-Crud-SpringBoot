@@ -1,4 +1,4 @@
-#**Spring Boot API Project for CRUD Operations with PostgreSQL**
+# **Spring Boot API Project for CRUD Operations with PostgreSQL**
 
 This is an example of a Spring Boot API project that performs CRUD (Create, Read, Update, Delete) operations using a PostgreSQL database. The API allows you to manage user information, including their usernames and ages.
 
